@@ -44,7 +44,7 @@ Here are some ideas to get you started:
          <a href="mailto:contact@serubii.com">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
          </a>
-         <a href="https://network.serubii.com">
+         <a href="http://network.serubii.com">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Discord_black.png" width="32" height="32"/>
          </a>
       </h2>
