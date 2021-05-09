@@ -20,20 +20,22 @@ Here are some ideas to get you started:
    <body>
       <h2 align="center">Bio</h2>
       <p align="center">
-        Software Developer and Computer Science student who thrives in challenging environments. Skilled in Python, Java and Kotlin. Currently gaining experience in the Web Dev Stack.
+        Software Developer and Computer Science student who thrives in challenging environments. Skilled in Python, Java, Dart and Kotlin. Currently gaining experience in the Web Dev Stack.
         <br>
         More than anything, I am always eager to learn and adapt to the ever changing facets of the industry.
-         <br>Currently working on Thinkwise Development in the Shipping and Transport industry
+         <br>Currently working on Multiplatform Flutterand Thinkwise Development in the Shipping and Transport industry
         <br>
       </p>
       <h2 align="center">Skills</h2>
       <dl align="center">
          <dt>Languages :</dt>
-         <dd>Java, Kotlin, Python, JavaScript</dd>
+         <dd>C#, Dart, Java, Kotlin, Python, JavaScript, SQL</dd>
          <dt>Frameworks or Technologies :</dt>
-         <dd>Android Java & Kotlin for Native and Flutter, Python Webdev for AI/ML/Datascience
+         <dd>Android Java & Kotlin for Native and Dart for Flutter, Python Webdev for AI/ML/Datascience
            <br>
             HTML5, CSS3, Vue, Vuetify, Bootstrap, Firebase
+           <br>
+            Django, Flask, Fastapi, AzureDevops, Serverless architecture, CI/CD
          </dd>
       </dl>
       <h2 align="center">Contact me on</h2>
@@ -43,9 +45,6 @@ Here are some ideas to get you started:
          </a>
          <a href="mailto:contact@serubii.com">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
-         </a>
-         <a href="http://network.serubii.com">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Discord_black.png" width="32" height="32"/>
          </a>
       </h2>
       <details align="center">
