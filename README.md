@@ -23,7 +23,7 @@ Here are some ideas to get you started:
         Software Developer and Computer Science student who thrives in challenging environments. Skilled in Python, Java, Dart and Kotlin. Currently gaining experience in the Web Dev Stack.
         <br>
         More than anything, I am always eager to learn and adapt to the ever changing facets of the industry.
-         <br>Currently working on Multiplatform Flutterand Thinkwise Development in the Shipping and Transport industry
+         <br>Currently working on Multiplatform Flutter and Thinkwise Development in the Shipping and Transport industry
         <br>
       </p>
       <h2 align="center">Skills</h2>
