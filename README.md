@@ -20,7 +20,7 @@ Here are some ideas to get you started:
    <body>
       <h2 align="center">Bio</h2>
       <p align="center">
-        Software Developer and Computer Science student who thrives in challenging environments. Skilled in Python, Java, Dart and Kotlin. Currently gaining experience in the Web Dev Stack.
+        Software Developer and Computer Science student who thrives in challenging environments. Skilled in Python, Java, Dart and Kotlin. Currently gaining experience in the Vue Web Dev Stack and Go.
         <br>
         More than anything, I am always eager to learn and adapt to the ever changing facets of the industry.
          <br>Currently working on Multiplatform Flutter and Thinkwise Development in the Shipping and Transport industry
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
       <h2 align="center">Skills</h2>
       <dl align="center">
          <dt>Languages :</dt>
-         <dd>C#, Dart, Java, Kotlin, Python, JavaScript, SQL</dd>
+         <dd>Python, Dart, C#, Go, Kotlin, JavaScript/TypeScript, Java, SQL</dd>
          <dt>Frameworks or Technologies :</dt>
          <dd>Android Java & Kotlin for Native and Dart for Flutter, Python Webdev for AI/ML/Datascience
            <br>
