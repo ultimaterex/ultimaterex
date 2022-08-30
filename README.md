@@ -20,7 +20,7 @@ Here are some ideas to get you started:
    <body>
       <h2 align="center">Bio</h2>
       <p align="center">
-        Software Developer that thrives in challenging environments. Skilled in Python, Java, Dart and Kotlin. Currently gaining experience in the Vue Web Dev Stack and Go.
+        Software Developer that thrives in challenging environments. Skilled in Python, Java, Dart and Kotlin. Currently gaining experience in the Vue Web Dev Stack.
         <br>
         More than anything, I am always eager to learn and adapt to the ever changing facets of the industry.
         <br>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
            <br>
             HTML5, CSS3, Vue, Vuetify, Bootstrap, Firebase
            <br>
-            Django, Flask, Fastapi, AzureDevops, Serverless architecture, CI/CD
+            Django, Flask, GCP/AWS/Azure, Serverless architecture, CI/CD
          </dd>
       </dl>
       <h2 align="center">Contact me on</h2>
